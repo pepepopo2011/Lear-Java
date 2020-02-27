@@ -23,11 +23,11 @@ comment
 
 A variable is where the data is stored. For a programmer there are different types of variable, an integer isn't the same that a rational number. The reason for that is that every type of variable is stored in different ways on the computer. The types of variables in Java are:
 
--**int** integer only. Operations can't usually be performed between different types of variables. The int data type allows values between -2,147,483,648 and 2,147,483,647, inclusive.
--**double** not integer numbers. The maximum value is 1.797,693,134,862,315,7 E+308 and the minimum value is 4.9 E-324.
--**boolean** Takes only two possible values-> true or false
--**char** Used for a single character e
--**String** It's considered a vector of char and it's usually useful to write words.
+- **int** integer only. Operations can't usually be performed between different types of variables. The int data type allows values between -2,147,483,648 and 2,147,483,647, inclusive.
+- **double** not integer numbers. The maximum value is 1.797,693,134,862,315,7 E+308 and the minimum value is 4.9 E-324.
+- **boolean** Takes only two possible values-> true or false
+- **char** Used for a single character e
+- **String** It's considered a vector of char and it's usually useful to write words.
 
 Syntax:
 ```
@@ -60,6 +60,6 @@ java myProgram
 ## Theoretical Background [Learn Java](https://www.tutorialspoint.com/java/java_object_classes.htm)
 Java is an object oriented programming lengauge.
 
--**Objects** in Java posses a state and behaviour. Just like classical mechanics, the state of the objects is given by all the information about you need to know about it. For example, a particle needs its position and momentum in order to predict its next step. The "behaviour" are the set of rules that changes the state of an object. For example, the behaviour of a particle is give by its Lagrangian.  
+- **Objects** in Java posses a state and behaviour. Just like classical mechanics, the state of the objects is given by all the information about you need to know about it. For example, a particle needs its position and momentum in order to predict its next step. The "behaviour" are the set of rules that changes the state of an object. For example, the behaviour of a particle is give by its Lagrangian.  
 Some objects can have simple states like an electron spin in a constant magnetic field. Its state will be defined by up or down and its behaviour will be change to spin up or change to spin down. Other real life objects could be more complex, like a radio. Its state could be given by on/off, volumme, station and its behaviour could be turn on/off, set volume to a number from 0 to 10 and set station from 1 to 3.
 
